@@ -101,5 +101,4 @@ user@thm:~$ nslookup --type=MX website.thm
 Server:     127.0.0.0.53
 Address:    127.0.0.0.53#53
 
-Non-authoritative answer:
-website.thm mail exchanger = 30 alt4.aspmx.l.google.com
+
