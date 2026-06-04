@@ -24,8 +24,6 @@ This repository tracks my structured technical notes, communication flow maps, s
 When a user triggers an interaction on a website, the browser formats a structured request targeting a specific server asset. The location mapping for these assets is defined by a **URL** (Uniform Resource Locator).
 
 ### Anatomy of a Uniform Resource Locator (URL):
-
-
 * **Scheme:** Instructs the local operating system which network protocol to invoke to parse the resource (e.g., `http://`, `https://`, or `ftp://`).
 * **User Info:** Optional field containing inline authentication parameters (`username:password`) required to access protected folder pools.
 * **Host:** The target domain name string or literal logical IP address of the remote web server hosting the assets.
